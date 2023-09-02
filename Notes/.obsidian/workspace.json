@@ -11,9 +11,11 @@
             "id": "e603511c5d7ba430",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Programming/Java/Images/Pasted image 20230809132908.png"
+                "file": "UNIR/1 Semester/Álgebra y Matemática Discreta.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -67,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "21153bf05fd019de",
@@ -83,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Java/Images/Pasted image 20230809132908.png",
+                "file": "UNIR/1 Semester/Álgebra y Matemática Discreta.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Java/Images/Pasted image 20230809132908.png",
+                "file": "UNIR/1 Semester/Álgebra y Matemática Discreta.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Java/Images/Pasted image 20230809132908.png"
+                "file": "UNIR/1 Semester/Álgebra y Matemática Discreta.md"
               }
             }
           }
@@ -144,14 +147,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "82c49db39463c38a",
+  "active": "e603511c5d7ba430",
   "lastOpenFiles": [
+    "tablas de verdad-ad4270f9-ae00-4dbd-85ca-880071ee5066.webp",
+    "Pasted image 20230822215640.png",
+    "UNIR/1 Semester/Tecnología de Computadores.md",
+    "UNIR/1 Semester/Introducción a la Ingeniería Informática.md",
     "UNIR/1 Semester/Constitución y Democracia.md",
+    "UNIR/1 Semester/Álgebra y Matemática Discreta.md",
+    "Programming/Java/Images/Pasted image 20230809132908.png",
     "Programming/Java/Images",
     "UNIR/1 Semester/Images",
-    "UNIR/1 Semester/Álgebra y Matemática Discreta.md",
-    "UNIR/1 Semester/Images/Pasted image 20230816180817.png",
-    "UNIR/1 Semester/Tecnología de Computadores.md",
-    "UNIR/1 Semester/Introducción a la Ingeniería Informática.md"
+    "UNIR/1 Semester/Images/Pasted image 20230816180817.png"
   ]
 }

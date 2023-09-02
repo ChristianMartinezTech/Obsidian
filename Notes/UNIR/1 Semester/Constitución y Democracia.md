@@ -1,15 +1,16 @@
 
 ***Profesor***: Wilson Castaño Galvis - Ing. Sistemas y Abogado
 
-***Actividades***:
-- Tarea 1: **Lectura: Colombia, país donde abundan las leyes y escasea la legalidad**
-	- Fecha: Lunes, 18 de septiembre de 2023, 23:59
-	- Sobre: Tema 1 y Tema 2
-- Tarea 2:
-- Tarea 3:
-- Tarea 4:
-
+***Programación semanal***:
+- Semana 2: **Test Tema 1**
+- Semana 3: **Test Tema 2**
+	- **Lectura: Colombia, país donde abundan las leyes y escasea la legalidad**
+		- Fecha Limite: Lunes, 18 de septiembre de 2023, 23:59
+- Semana 5: **Test Tema 3**
+	- **Foro: Respeto por los Derechos fundamentales en Colombia**
+		- Fecha Limite: lunes, 25 de septiembre de 2023, 23:59
 .
+
 ## TEMA 1: LA TRIDIVISIÓN DEL PODER PÚBLICO EN COLOMBIA
 
 [Clase Magistral][https://campusvirtual.colombia.unir.net/mod/lti/view.php?id=100572]
@@ -25,6 +26,6 @@ En Colombia las ramas del poder público son tres: la legislativa, la judicial y
 - La rama ***judicial*** se ocupa de administrar la justicia en Colombia. La componen organismos como la Corte Suprema de Justicia, la Corte Constitucional, el Consejo de Estado, el Consejo Superior de la Judicatura, las Jurisdicciones Especiales y la Fiscalía General de la Nación, un organismo adscrito. Los organismos públicos autónomos constituyen entidades que sirven al Estado. Entre ellos están órganos de control como el Ministerio Público o Procuraduría y la Contraloría, así como el Consejo Nacional Electoral, y el Banco de la República.
 ![[Pasted image 20230816180817.png]]
 .
-.
+
 
 
